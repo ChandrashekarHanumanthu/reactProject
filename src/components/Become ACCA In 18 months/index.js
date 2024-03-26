@@ -1,5 +1,4 @@
 import React from 'react';
-import PlacementAssistance from '../100% Placement Assistance';
 import './index.css';
 
 const BecomeACCA = () => {
